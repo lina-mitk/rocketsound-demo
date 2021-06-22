@@ -1,6 +1,6 @@
 {
   "org.telestion.configuration": {
-	"app_name": "##REPO_NAME##",
+	"app_name": "rocketsound-demo",
 	"verticles": [
 	  {
 		"name": "Message Logger",
